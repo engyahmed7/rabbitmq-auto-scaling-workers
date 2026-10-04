@@ -444,4 +444,3 @@ RabbitMQ/
 ├── Scaling/                        consumer scaling for rabbitmq:work
 └── Topology/                       ExchangeDefinition, ExchangeType, QueueDefinition, MessagingRegistry
 ```
-# rabbitmq-auto-scaling-workers
